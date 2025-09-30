@@ -1,5 +1,5 @@
 import { Link, useLocation } from 'react-router';
-import { Globe, Menu, X } from 'lucide-react';
+import { Menu, X } from 'lucide-react';
 import { useState } from 'react';
 
 export default function Header() {
