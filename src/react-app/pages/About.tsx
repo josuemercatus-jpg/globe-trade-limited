@@ -224,6 +224,13 @@ export default function About() {
     className="max-h-16 w-auto object-contain filter grayscale hover:grayscale-0 transition-all duration-300"
   />
 </div>
+<div className="flex justify-center p-4 bg-white rounded-lg shadow-md hover:shadow-xl transition-all duration-300">
+  <img
+    src="/images/natures-personalise.webp"
+    alt="Natures personalise"
+    className="max-h-16 w-auto object-contain filter grayscale hover:grayscale-0 transition-all duration-300"
+  />
+</div>
             {/* Repita o bloco <div> para cada logotipo de cliente/parceiro */}
             {/* Você pode adicionar até 8 ou 12 logotipos para ter uma boa grade */}
           </div>
