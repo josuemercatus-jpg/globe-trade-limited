@@ -226,7 +226,7 @@ export default function About() {
 </div>
 <div className="flex justify-center p-4 bg-white rounded-lg shadow-md hover:shadow-xl transition-all duration-300">
   <img
-    src="/images/natures_personalise.webp"
+    src="/images/natures-personalise.webp"
     alt="Natures personalise"
     className="max-h-16 w-auto object-contain filter grayscale hover:grayscale-0 transition-all duration-300"
   />
